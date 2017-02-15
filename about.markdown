@@ -3,7 +3,9 @@ layout: default
 ---
 
 headers:
+
 # This will be large
+
 ## This not so large
 
 bold:
@@ -19,6 +21,7 @@ inline code (surround in backticks:
 this is some 1337 code: `var foo='bar';`
 
 code blocks
+
 ```
 const foo = 'bar'
 function blah() {
