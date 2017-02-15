@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 headers:
 # This will be large
 ## This not so large
